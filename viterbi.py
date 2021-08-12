@@ -8,7 +8,7 @@ import pandas as pd
 # config.json is produced by config.py
 
 # An Annot object represents an annotation on a genome. There are three
-# attributes: the start and end of the annotation, and its name
+# attributes: the start and end of the annotation, and its name.
 class Annot:
     
     def __init__(self, start, end, name=''):        
