@@ -1,6 +1,7 @@
 import sys
 import json
 import numpy as np
+import pandas as pd
 
 # Usage:
 # python viterbi.py PATH/TO/config.json PATH/TO/fasta_file
